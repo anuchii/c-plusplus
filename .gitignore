@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+*.DS_Store
+
+# JetBrains / CLion
+.idea/
+
+# CMake build folders
+cmake-build-*/
+
+# macOS debug symbols
+*.dSYM/
+
+# Compiled files
+*.o
+*.out
+*.exe
