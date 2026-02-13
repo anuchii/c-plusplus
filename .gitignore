@@ -15,3 +15,17 @@ cmake-build-*/
 *.o
 *.out
 *.exe
+/basic/exercises/exercise9
+/basic/exercises/exercise10
+/basic/exercises/exercise11
+/basic/exercises/exercise12
+/basic/exercises/exercise13
+/basic/exercises/exercise14
+/basic/exercises/exercise15
+/basic/exercises/exercise16
+/basic/exercises/exercise17
+/basic/exercises/exercise18
+/basic/exercises/exercise19
+/basic/exercises/exercise20
+
+/basic/teory/dinamicArray
